@@ -6,7 +6,23 @@
     <title>Document</title>
 </head>
 <body>
-   
-    <script src="services.js"></script>
+    <main>
+        <div>
+            <h2>¿Agregamos una peli ?</h2>
+            <form id="formMovie">
+            <input type="text" id="title" placeholder="Titulo" required/>
+            <input type="text" id="director" placeholder="Director" required/>
+            <input type="text" id="description" placeholder="Descripción" required/>
+            <button type="submit">AGREGAR</button>
+            </form>
+
+        </div>
+
+        <div>
+           <button type="submit" onclick="printMovies()">Agregar info</button>
+           <section id="movie-section"></section>
+      </div>
+    </main>
+    <script src="/src/services.js"></script>
 </body>
 </html>
