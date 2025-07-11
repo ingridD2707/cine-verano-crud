@@ -83,6 +83,7 @@ async function printMovies() {
         const div = document.createElement("div");
         div.innerHTML = `
             <h2>${movie.title}</h2>
+            <p>${movie.director}</p>
             <p>${movie.description}</p>
             <button onclick="deleteMovie('${movie.id}')">Eliminar</button>
             <button onclick="editMovie('${movie.id}', '${movie.title}', '${movie.director}', \`${movie.description.replace(/`/g, '\\`')}\`)">Editar</button>

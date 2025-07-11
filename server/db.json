@@ -1,32 +1,48 @@
 {
   "movies": [
     {
-      "id": "2",
-      "title": "The Beach",
-      "director": "Danny Boyle",
-      "year": 2000,
-      "genre": "Drama/Aventura",
-      "rating": 7.8,
-      "poster": "https://via.placeholder.com/300x450/FFD700/000000?text=The+Beach",
-      "description": "Una aventura en las playas paradisíacas de Tailandia.",
-      "summerVibes": true
-    },
-    {
-      "id": "3",
-      "title": "Dirty Dancing",
-      "director": "Emile Ardolino",
-      "year": 1987,
+      "id": "4",
+      "title": "Call Me by Your Name",
+      "director": "Luca Guadagnino",
+      "year": 2017,
       "genre": "Romance/Drama",
-      "rating": 8.5,
-      "poster": "https://via.placeholder.com/300x450/FF6B6B/000000?text=Dirty+Dancing",
-      "description": "Romance y baile en un resort de verano en los años 60.",
+      "rating": 8.2,
+      "poster": "https://via.placeholder.com/300x450/FFA07A/000000?text=Call+Me+by+Your+Name",
+      "description": "Un verano en el norte de Italia marcado por un intenso primer amor.",
       "summerVibes": true
     },
     {
-      "title": "gajhguorhjah",
-      "writer": "ingrid",
-      "description": "asetuaoi",
-      "id": "e97c"
+      "id": "5",
+      "title": "Mamma Mia!",
+      "director": "Phyllida Lloyd",
+      "year": 2008,
+      "genre": "Musical/Comedia",
+      "rating": 7.4,
+      "poster": "https://via.placeholder.com/300x450/87CEEB/000000?text=Mamma+Mia!",
+      "description": "Un musical soleado en una isla griega lleno de canciones de ABBA.",
+      "summerVibes": true
+    },
+    {
+      "id": "6",
+      "title": "The Parent Trap",
+      "director": "Nancy Meyers",
+      "year": 1998,
+      "genre": "Comedia/Familiar",
+      "rating": 7.6,
+      "poster": "https://via.placeholder.com/300x450/FFE4B5/000000?text=The+Parent+Trap",
+      "description": "Dos gemelas se conocen en un campamento de verano y planean reunir a sus padres.",
+      "summerVibes": true
+    },
+    {
+      "id": "7",
+      "title": "The Way Way Back",
+      "director": "Nat Faxon, Jim Rash",
+      "year": 2013,
+      "genre": "Comedia/Drama",
+      "rating": 7.5,
+      "poster": "https://via.placeholder.com/300x450/00CED1/000000?text=The+Way+Way+Back",
+      "description": "Un adolescente tímido encuentra su lugar trabajando en un parque acuático durante el verano.",
+      "summerVibes": true
     }
   ]
 }

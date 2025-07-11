@@ -1,0 +1,81 @@
+
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+  }
+
+  main {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  h2 {
+    text-align: center;
+    color: #333;
+  }
+
+  form {
+    background-color: #fff;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+
+  form input {
+    width: 100%;
+    padding: 0px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+  form button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  form button:hover {
+    background-color: #2980b9;
+  }
+
+
+
+  #movie-section > div {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+  }
+
+  #movie-section h2 {
+    margin-top: 0;
+    font-size: 1.2rem;
+    color: #222;
+  }
+
+  #movie-section p {
+    color: #555;
+    margin: 8px 0;
+  }
+
+  #movie-section button {
+    margin-right: 10px;
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    padding: 6px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  #movie-section button:hover {
+    background-color: #c0392b;
+  }
